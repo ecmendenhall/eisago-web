@@ -1,0 +1,37 @@
+body {
+    font-family: Helvetica, sans-serif;
+    line-height: 1.8em;
+    font-size: 1.75em;
+}
+a { color: rgb(90, 126, 222); }
+a:active { color: rgb(90, 126, 222); }
+a:visited { color: rgb(90, 126, 222); }
+h1 { font-size: 3em; }
+pre { font-family: Monaco, monospace; }
+.namespace { text-align: right; }
+.namespace > ul { list-style-type: none; }
+#arglist {
+    font-size: 1.5em;
+    line-height: 1.5em;
+    list-style-type: none;
+    padding-left: 1em;
+    padding-bottom: 1em;
+}
+#searchbox { padding-top: 1em; }
+.search-results {
+    list-style-type: none;
+    padding-left: 1em;
+    padding-bottom: 1em;
+}
+.hit a { font-size: 1.5em; }
+.hit {
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+.green { color: rgb(107, 180, 21); }
+.blue { color: rgb(90, 126, 222); }
+.hidden { display: none; }
+a.version {
+    font-size: .85em;
+    margin-left: .5em;
+}
